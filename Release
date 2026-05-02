@@ -1,8 +1,8 @@
-Origin: My Personal Repo
+Origin: Cubey's Repo
 Label: Legacy Archive
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My personal backup for iOS 6 tweaks and patches.
+Description: Backups of my tweak archives so I don't have to dig for tweaks again. Usually tweaks in here are ones that is impossible to find or is going to be dead. 
