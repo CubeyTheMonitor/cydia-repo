@@ -1,4 +1,5 @@
 Package: com.iphoneil.pushfix
+Name: PushFix Legacy
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iphoneil
@@ -6,4 +7,4 @@ Filename: debs/com.iphoneil.pushfix_1.0_iphoneos-arm.deb
 Size: 6725
 MD5sum: e89e06224624c32e5b1a586e0e42684f
 Section: Tweaks
-Description: Essential patch for fixing the"Connect to iTunes to enable push notifications" errors on legacy devices.
+Description: Essential patch for fixing the Connect to iTunes push notification errors on legacy devices.
